@@ -4,8 +4,10 @@
  - Python 3
  - Jupyter lab
  - Package additionnel Python
-     - Pandas
-     - openpyxl
+      - jupyterlab
+      - Pandas
+      - openpyxl
+   Vous pouvez installer ces package par un "pip install -r requirement.txt"
     
 ## Preparation
 

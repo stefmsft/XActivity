@@ -130,3 +130,8 @@ dmypy.json
 
 *.xlsx
 Test*.ipynb
+Scripts/*
+pyvenv.cfg
+Lib/*
+etc/*
+share/*
